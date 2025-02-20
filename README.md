@@ -5,3 +5,5 @@ Build a Python app that scrapes all types of Pokemon into local database, and ma
 Result:
 How to run:
 python pokemon.py
+Open:
+http://127.0.0.1:5000/api/pokemon
